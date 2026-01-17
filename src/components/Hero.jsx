@@ -78,7 +78,7 @@ const Hero = ({ onOpenModal }) => {
                 <div className="hero-profile">
                     <div className="profile-glow"></div>
                     <div className="profile-image-container">
-                        <img src="/assets/profile.jpg" alt="Krishnaprasad" className="profile-image" />
+                        <img src="dist/assets/profile.jpg" alt="Krishnaprasad" className="profile-image" />
                     </div>
                 </div>
             </div>
